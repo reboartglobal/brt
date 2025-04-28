@@ -6,25 +6,25 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Contac Us"
     link: "https://github.com/zeon-studio/hugoplate"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Fitur Layanan Internet RGN"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "RGN menawarkan berbagai fitur layanan internet untuk mendukung kebutuhan pengguna, baik individu maupun bisnis. Fitur-fitur tersebut antara lain:"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Koneksi Stabil dan Cepat"
+      - "Pilihan Paket Fleksibel"
+      - "Layanan Pelanggan 24/7"
+      - "Teknologi Fiber Optik"
+      - "Instalasi Cepat dan Gratis"
+      - "Keamanan Jaringan"
     button:
       enable: false
       label: "Get Started Now"
-      link: "#"
+      link: "https://bit.ly/reboart"
 
   - title: "Discover the Key Features Of Hugo"
     image: "/images/service-2.png"
@@ -36,7 +36,7 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "https://bit.ly/reboart"
 
   - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
     image: "/images/service-3.png"
@@ -48,6 +48,6 @@ features:
       - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
     button:
       enable: false
-      label: ""
-      link: ""
+      label: "Get Started"
+      link: "https://bit.ly/reboart"
 ---

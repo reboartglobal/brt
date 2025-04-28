@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://rgn.biz.id"
+baseURL = "https://brtjhii.netlify.app/"
 # Title of your website (required).
 title = "RGN"
 # Your theme name

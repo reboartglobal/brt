@@ -12,8 +12,8 @@ url = "/about"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "/elements"
+name = "Layanan"
+url = "/layanan"
 weight = 3
 
 [[main]]
@@ -32,18 +32,9 @@ url = "/contact"
 
 [[main]]
 parent = "Pages"
-name = "Authors"
-url = "/authors"
+name = "FAQ"
+url = "/faq"
 
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "/categories"
-
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
 
 
 # footer menu
@@ -53,8 +44,8 @@ url = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "/elements"
+name = "FAQ"
+url = "/faq"
 weight = 2
 
 [[footer]]

@@ -33,54 +33,87 @@
     </section>
   {{ end }}
   <!-- /Banner -->
+  <section class="py-5 bg-light">
+    <div class="container text-center">
+      <h2 class="mb-5 text-primary fw-bold">Mengapa Memilih Reboart Global Network?</h2>
+  
+      <div class="row g-4">
+  
+        <div class="col-md-4">
+          <div class="card h-100 shadow-sm border-0">
+            <div class="card-body">
+              <h5 class="card-title text-primary">Koneksi Cepat & Stabil</h5>
+              <p class="card-text text-muted">
+                Nikmati internet super cepat dan koneksi yang stabil untuk semua kebutuhan digital Anda, kapan saja.
+              </p>
+            </div>
+          </div>
+        </div>
+  
+        <div class="col-md-4">
+          <div class="card h-100 shadow-sm border-0">
+            <div class="card-body">
+              <h5 class="card-title text-primary">Layanan Pelanggan 24/7</h5>
+              <p class="card-text text-muted">
+                Tim support kami siap membantu Anda setiap saat dengan pelayanan cepat dan profesional.
+              </p>
+            </div>
+          </div>
+        </div>
+  
+        <div class="col-md-4">
+          <div class="card h-100 shadow-sm border-0">
+            <div class="card-body">
+              <h5 class="card-title text-primary">Teknologi Terkini</h5>
+              <p class="card-text text-muted">
+                Kami menggunakan teknologi terbaru untuk menghadirkan pengalaman internet terbaik bagi pelanggan kami.
+              </p>
+            </div>
+          </div>
+        </div>
+  
+        <div class="col-md-4">
+          <div class="card h-100 shadow-sm border-0">
+            <div class="card-body">
+              <h5 class="card-title text-primary">Harga Terjangkau</h5>
+              <p class="card-text text-muted">
+                Paket layanan fleksibel dengan harga yang kompetitif sesuai dengan kebutuhan Anda.
+              </p>
+            </div>
+          </div>
+        </div>
+  
+        <div class="col-md-4">
+          <div class="card h-100 shadow-sm border-0">
+            <div class="card-body">
+              <h5 class="card-title text-primary">Area Jangkauan Luas</h5>
+              <p class="card-text text-muted">
+                Layanan kami telah tersedia di banyak wilayah, terus berkembang untuk melayani lebih banyak pelanggan.
+              </p>
+            </div>
+          </div>
+        </div>
+  
+        <div class="col-md-4">
+          <div class="card h-100 shadow-sm border-0">
+            <div class="card-body">
+              <h5 class="card-title text-primary">Komitmen Kepuasan Pelanggan</h5>
+              <p class="card-text text-muted">
+                Kami berdedikasi penuh untuk memberikan layanan terbaik dan kepuasan maksimal bagi setiap pelanggan.
+              </p>
+            </div>
+          </div>
+        </div>
+  
+      </div>
+    </div>
+  </section>
 
   <!-- Features -->
   {{ range $i, $e:= .Params.features }}
     
     <section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">
-        <div class="bg-blue-50 p-8 rounded-2xl shadow hover:shadow-lg transition">
-          <h3 class="text-2xl font-semibold mb-4 text-blue-600">Koneksi Cepat & Stabil</h3>
-          <p class="text-gray-700">
-            Kami menyediakan layanan internet berkecepatan tinggi dan koneksi stabil, memastikan aktivitas digital Anda tanpa hambatan, kapan saja dan di mana saja.
-          </p>
-        </div>
-      
-        <div class="bg-blue-50 p-8 rounded-2xl shadow hover:shadow-lg transition">
-          <h3 class="text-2xl font-semibold mb-4 text-blue-600">Layanan Pelanggan 24/7</h3>
-          <p class="text-gray-700">
-            Tim support kami siap membantu Anda kapan pun Anda membutuhkan, dengan respon cepat dan solusi profesional untuk setiap kebutuhan.
-          </p>
-        </div>
-      
-        <div class="bg-blue-50 p-8 rounded-2xl shadow hover:shadow-lg transition">
-          <h3 class="text-2xl font-semibold mb-4 text-blue-600">Teknologi Terkini</h3>
-          <p class="text-gray-700">
-            Kami terus berinovasi dengan teknologi terbaru untuk memberikan kualitas layanan internet terbaik di setiap titik jangkauan kami.
-          </p>
-        </div>
-      
-        <div class="bg-blue-50 p-8 rounded-2xl shadow hover:shadow-lg transition">
-          <h3 class="text-2xl font-semibold mb-4 text-blue-600">Harga Terjangkau</h3>
-          <p class="text-gray-700">
-            Nikmati koneksi berkualitas tinggi dengan harga yang bersahabat. Kami menawarkan berbagai paket fleksibel sesuai kebutuhan Anda.
-          </p>
-        </div>
-      
-        <div class="bg-blue-50 p-8 rounded-2xl shadow hover:shadow-lg transition">
-          <h3 class="text-2xl font-semibold mb-4 text-blue-600">Area Jangkauan Luas</h3>
-          <p class="text-gray-700">
-            Jaringan kami menjangkau banyak wilayah di Indonesia, memastikan lebih banyak orang bisa menikmati layanan internet berkualitas.
-          </p>
-        </div>
-      
-        <div class="bg-blue-50 p-8 rounded-2xl shadow hover:shadow-lg transition">
-          <h3 class="text-2xl font-semibold mb-4 text-blue-600">Komitmen Kepuasan Pelanggan</h3>
-          <p class="text-gray-700">
-            Kepuasan Anda adalah prioritas kami. Kami berkomitmen untuk selalu memberikan layanan terbaik dan pengalaman pengguna yang luar biasa.
-          </p>
-        </div>
-      
-      </div>
+        
 
       <div class="container">
         <div class="row items-center justify-between">

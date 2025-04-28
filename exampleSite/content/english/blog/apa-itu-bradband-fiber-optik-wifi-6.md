@@ -3,7 +3,7 @@ title: "Apa Itu Internet Broadband, Fiber Optik, WiFi 6, dan Lainnya"
 meta_title: "apa-itu-bradband-fiber-optik-wifi-6"
 description: "Bingung dengan istilah seperti broadband, fiber optik, atau WiFi 6? Artikel ini menjelaskan secara sederhana namun mendalam mengenai berbagai jenis koneksi internet, teknologi jaringan terbaru, serta keunggulan masing-masing. Cocok untuk Anda yang ingin memahami dunia internet modern dengan bahasa yang mudah dimengerti."
 date: 2025-03-04T05:00:00Z
-image: "/images/bradband-fiber-optik-wifi-6.png"
+image: "/images/bradband-fiber-optik-wifi-6.jpg"
 categories: ["Tech"]
 author: "reboart"
 tags: ["wifi", "bradband", "fiber optik"]

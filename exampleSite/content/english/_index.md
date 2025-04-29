@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Fitur Layanan Internet RGN"
-    image: "/images/service-1.png"
+    image: "/images/service-rgn-1.png"
     content: "RGN menawarkan berbagai fitur layanan internet untuk mendukung kebutuhan pengguna, baik individu maupun bisnis. Fitur-fitur tersebut antara lain:"
     bulletpoints:
       - "Koneksi Stabil dan Cepat"
@@ -27,7 +27,7 @@ features:
       link: "https://bit.ly/m/reboart"
 
   - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
+    image: "/images/service-rgn-2.png"
     content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
     bulletpoints:
       - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
@@ -39,7 +39,7 @@ features:
       link: "https://bit.ly/m/reboart"
 
   - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
+    image: "/images/service-rgn-3.png"
     content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
       - "Instantly load static sites for better user experience and SEO."

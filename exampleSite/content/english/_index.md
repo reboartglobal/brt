@@ -24,7 +24,7 @@ features:
     button:
       enable: false
       label: "Get Started Now"
-      link: "https://bit.ly/reboart"
+      link: "https://bit.ly/m/reboart"
 
   - title: "Discover the Key Features Of Hugo"
     image: "/images/service-2.png"
@@ -36,7 +36,7 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://bit.ly/reboart"
+      link: "https://bit.ly/m/reboart"
 
   - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
     image: "/images/service-3.png"
@@ -49,5 +49,5 @@ features:
     button:
       enable: false
       label: "Get Started"
-      link: "https://bit.ly/reboart"
+      link: "https://bit.ly/m/reboart"
 ---

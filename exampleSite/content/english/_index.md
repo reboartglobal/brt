@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Contac Us"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "https://bit.ly/m/reboart"
 
 # Features
 features:

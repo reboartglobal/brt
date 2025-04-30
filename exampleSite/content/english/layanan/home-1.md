@@ -10,10 +10,10 @@ Paket HOME 1 dari RGN adalah pilihan terjangkau yang menawarkan koneksi internet
 
 Detail Paket HOME 1:
 
-✅ Kecepatan internet hingga 7 Mbps *(sesuaikan dengan kebutuhan)
-✅ Kuota unlimited (tanpa batas pemakaian)
-✅ Dukungan teknis 24/7
-✅ Gratis biaya sewa modem
+- ✅ Kecepatan internet hingga 7 Mbps *(sesuaikan dengan kebutuhan)
+- ✅ Kuota unlimited (tanpa batas pemakaian)
+- ✅ Dukungan teknis 24/7
+- ✅ Gratis biaya sewa modem
 
 Paket ini memberikan akses internet yang andal dan nyaman dengan biaya yang ekonomis. Nikmati konektivitas tanpa batas dengan layanan dari RGN yang selalu siap membantu memenuhi kebutuhan digital Anda!
 

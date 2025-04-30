@@ -10,10 +10,10 @@ Paket Home 3 dari RGN adalah pilihan terbaik bagi pengguna yang membutuhkan kone
 
 Detail Paket Home 3:
 
-✅ Kecepatan internet hingga 30 Mbps* (sesuaikan dengan kebutuhan)
-✅ Kuota unlimited (tanpa batas pemakaian)
-✅ Dukungan teknis 24/7
-✅ Gratis biaya sewa modem
+- ✅ Kecepatan internet hingga 30 Mbps* (sesuaikan dengan kebutuhan)
+- ✅ Kuota unlimited (tanpa batas pemakaian)
+- ✅ Dukungan teknis 24/7
+- ✅ Gratis biaya sewa modem
 
 Paket ini menawarkan kenyamanan dan kecepatan internet yang optimal, memungkinkan Anda untuk menjalankan berbagai aktivitas digital tanpa hambatan. Percayakan koneksi internet Anda kepada RGN, dan rasakan pengalaman internet terbaik dengan Paket Home 3!
 

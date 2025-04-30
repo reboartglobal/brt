@@ -10,10 +10,10 @@ Paket HOME 2 dari RGN dirancang untuk pengguna yang membutuhkan koneksi internet
 
 Detail Paket HOME 2:
 
-✅ Kecepatan internet hingga 12 Mbps* (sesuaikan dengan kebutuhan)
-✅ Kuota unlimited (tanpa batas pemakaian)
-✅ Dukungan teknis 24/7
-✅ Gratis biaya sewa modem
+- ✅ Kecepatan internet hingga 12 Mbps* (sesuaikan dengan kebutuhan)
+- ✅ Kuota unlimited (tanpa batas pemakaian)
+- ✅ Dukungan teknis 24/7
+- ✅ Gratis biaya sewa modem
 
 Paket ini menawarkan pengalaman internet yang lebih lancar untuk berbagai kebutuhan digital Anda. Dapatkan koneksi yang lebih cepat dan dukungan pelanggan yang responsif bersama RGN, pilihan tepat untuk internet rumah yang andal!
 

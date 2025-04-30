@@ -2,7 +2,7 @@
 title: HOME 1
 image: "/images/layanan/home-1-rgn.png"
 description: Dengan harga Rp. 150.000 per bulan, paket ini cocok untuk penggunaan pribadi atau keluarga kecil yang memerlukan akses internet
-link: https://bit.ly/m/reboart
+llink: https://bit.ly/m/reboart
 social:
   - name: github
     icon: fa-brands fa-github

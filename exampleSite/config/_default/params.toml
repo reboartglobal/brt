@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "RGN"
+logo_text = "RGN - Internet Cepat & Stabil"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -63,7 +63,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Reboart", "Internet", "Wifi", "Wifi Stabil", "Rgn Wifi Cepat", "RGN", "Patimuan"]
-description = "RGN - Internet Cepat & Stabil"
+description = "Nikmati layanan internet cepat, stabil, dan terpercaya dari Reboart Global Network. Solusi internet rumah dan bisnis terbaik"
 author = "reboart"
 twitter = "reboart"
 image = "images/rgn-internet-tanpa-fup-patimuan.jpg"

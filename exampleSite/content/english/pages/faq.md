@@ -3,12 +3,12 @@ title: "Frequently Asked Questions RGN"
 # meta title
 meta_title: "faq"
 # meta description
-description: "Pertanyaan umum dan informasi layanan internet RGN baik dari coverage area serta tindakan apabila terjadi gangguan"
+description: "Pertanyaan umum dan informasi layanan internet RGN baik dari coverage area serta tindakan apabila terjadi gangguan."
 # save as draft
 draft: false
 ---
 
-## Frequently Asked Questions RGN
+### Frequently Asked Questions RGN
 
 Pertanyaan Umum dan Informasi
 

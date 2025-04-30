@@ -6,7 +6,7 @@
           {{ $image:= .Params.image }}
           {{ if $image }}
             <div class="mb-10">
-              {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "w-full rounded" "itemprop" "image") }}
+              {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "w-full rounded") }}
             </div>
           {{ end }}
           <h1 class="h2 mb-4" itemprop="headline">
@@ -16,7 +16,7 @@
             <li class="mr-4 inline-block" itemprop="author" itemscope itemtype="https://schema.org/Person">
               <a
                 itemprop="url" href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/">
-                <i itemprop="name" class="fa-regular fa-circle-user mr-2"></i
+                <i  class="fa-regular fa-circle-user mr-2"></i
                 >{{ .Params.author }}
               </a>
             </li>

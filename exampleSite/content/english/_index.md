@@ -26,7 +26,7 @@ features:
       label: "Get Started Now"
       link: "https://bit.ly/m/reboart"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Mengapa Memilih Reboart Global Network?"
     image: "/images/service-rgn-2.png"
     content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
     bulletpoints:

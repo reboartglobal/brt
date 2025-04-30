@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Internet Cepat & Stabil"
+  title: "RGN - Unlimited Connection"
   content: "Solusi terbaik untuk rumah dan bisnis Anda. Hadir dengan teknologi terbaru dan dukungan profesional 24/7."
   image: "/images/banner.png"
   button:

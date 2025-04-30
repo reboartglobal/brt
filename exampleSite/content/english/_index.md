@@ -26,11 +26,17 @@ features:
       label: "Get Started Now"
       link: "https://bit.ly/m/reboart"
 
-  - title: "Mengapa Memilih Reboart Global Network?"
+  - title: "Mengapa Harus RGN?"
     image: "/images/service-rgn-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "RGN memiliki fitur layanan internet untuk mendukung kebutuhan pengguna, baik individu maupun bisnis."
     bulletpoints:
-      < accordion "Apa saja paket layanan internet yang tersedia?" >Kami menyediakan berbagai paket internet mulai dari kecepatan 10 Mbps hingga 100 Mbps, dengan harga terjangkau dan koneksi stabil untuk rumah maupun bisnis.< /accordion >
+      - "Koneksi cepat"
+      - "Teknologi Terkini"
+      - "Harga Terjangkau"
+      - "Gratis Sewa Router"
+      - "Tanpa FUP"
+      - "Paket Fleksibel & Terjangkau"
+      - "Komitmen Kepuasan Pelanggan"
     button:
       enable: true
       label: "Get Started Now"

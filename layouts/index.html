@@ -1,5 +1,25 @@
 {{ define "main" }}
   <!-- Banner -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Corporation",
+      "name": "RGN",
+      "url": "https://rgn.biz.id/",
+      "logo": "https://rgn.biz.id/images/logo.png",
+      "alternateName": "rgn net",
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "",
+          "contactType": "sales",
+          "email": "cs@rgn.biz.id",
+          "areaServed": "ID",
+          "availableLanguage": "id"
+        }
+      ]
+    }
+    </script>
   {{ with .Params.banner }}
     <section class="section pt-14">
       <div class="container">
@@ -32,82 +52,6 @@
       </div>
     </section>
   {{ end }}
-  <!-- /Banner -->
-  <section class="py-5 bg-light">
-    <div class="container text-center">
-      <h2 class="mb-5 text-primary fw-bold">Mengapa Memilih Reboart Global Network?</h2>
-  
-      <div class="row g-4">
-  
-        <div class="col-md-4">
-          <div class="card h-100 shadow-sm border-0">
-            <div class="card-body">
-              <h5 class="card-title text-primary">Koneksi Cepat & Stabil</h5>
-              <p class="card-text text-muted">
-                Nikmati internet super cepat dan koneksi yang stabil untuk semua kebutuhan digital Anda, kapan saja.
-              </p>
-            </div>
-          </div>
-        </div>
-  
-        <div class="col-md-4">
-          <div class="card h-100 shadow-sm border-0">
-            <div class="card-body">
-              <h5 class="card-title text-primary">Layanan Pelanggan 24/7</h5>
-              <p class="card-text text-muted">
-                Tim support kami siap membantu Anda setiap saat dengan pelayanan cepat dan profesional.
-              </p>
-            </div>
-          </div>
-        </div>
-  
-        <div class="col-md-4">
-          <div class="card h-100 shadow-sm border-0">
-            <div class="card-body">
-              <h5 class="card-title text-primary">Teknologi Terkini</h5>
-              <p class="card-text text-muted">
-                Kami menggunakan teknologi terbaru untuk menghadirkan pengalaman internet terbaik bagi pelanggan kami.
-              </p>
-            </div>
-          </div>
-        </div>
-  
-        <div class="col-md-4">
-          <div class="card h-100 shadow-sm border-0">
-            <div class="card-body">
-              <h5 class="card-title text-primary">Harga Terjangkau</h5>
-              <p class="card-text text-muted">
-                Paket layanan fleksibel dengan harga yang kompetitif sesuai dengan kebutuhan Anda.
-              </p>
-            </div>
-          </div>
-        </div>
-  
-        <div class="col-md-4">
-          <div class="card h-100 shadow-sm border-0">
-            <div class="card-body">
-              <h5 class="card-title text-primary">Area Jangkauan Luas</h5>
-              <p class="card-text text-muted">
-                Layanan kami telah tersedia di banyak wilayah, terus berkembang untuk melayani lebih banyak pelanggan.
-              </p>
-            </div>
-          </div>
-        </div>
-  
-        <div class="col-md-4">
-          <div class="card h-100 shadow-sm border-0">
-            <div class="card-body">
-              <h5 class="card-title text-primary">Komitmen Kepuasan Pelanggan</h5>
-              <p class="card-text text-muted">
-                Kami berdedikasi penuh untuk memberikan layanan terbaik dan kepuasan maksimal bagi setiap pelanggan.
-              </p>
-            </div>
-          </div>
-        </div>
-  
-      </div>
-    </div>
-  </section>
 
   <!-- Features -->
   {{ range $i, $e:= .Params.features }}

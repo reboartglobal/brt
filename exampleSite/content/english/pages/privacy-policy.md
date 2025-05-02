@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy"
 # meta title
-meta_title: "privacy-policy"
+meta_title: "Privacy Policy"
 # meta description
 description: "Privasi Anda sangat penting bagi kami. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, mengungkapkan, dan melindungi informasi pribadi Anda saat Anda mengunjungi situs web kami."
 # save as draft

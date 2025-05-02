@@ -1,6 +1,6 @@
 ---
 title: "Internet Lemot Saat Banyak Perangkat Tersambung? Ini yang Harus Kamu Lakukan"
-meta_title: "internet-lemot-saat-banyak-perangkat-tersambung"
+meta_title: "Internet lemot saat banyak perangkat tersambung"
 description: "Mengalami internet lambat karena terlalu banyak perangkat tersambung di rumah? Artikel ini menawarkan solusi efektif mulai dari upgrade router, mengatur QoS, menggunakan kabel Ethernet, hingga membangun sistem Mesh WiFi. Panduan ini membantu Anda menjaga kecepatan internet tetap stabil walau semua anggota keluarga aktif online bersamaan."
 date: 2025-04-04T05:00:00Z
 image: "/images/internet-lemot-saat-banyak-perangkat-tersambung.jpg"

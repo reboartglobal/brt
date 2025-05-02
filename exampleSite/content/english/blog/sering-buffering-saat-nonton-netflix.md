@@ -1,6 +1,6 @@
 ---
 title: "Sering Buffering Saat Nonton Netflix? Ini Solusinya!"
-meta_title: "sering-buffering-saat-nonton-netflix"
+meta_title: "Sering buffering saat nonton netflix"
 description: "Kesal karena Netflix sering buffering saat asyik menonton? Artikel ini membahas penyebab umum buffering dan memberikan solusi praktis seperti meningkatkan kecepatan internet, menggunakan koneksi kabel, mengoptimalkan WiFi, hingga mengatur prioritas perangkat. Dilengkapi tips sederhana agar pengalaman streaming Anda kembali lancar dan bebas gangguan."
 date: 2025-03-04T05:00:00Z
 image: "/images/sering-buffering-saat-nonton-netflix.jpg"

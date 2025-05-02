@@ -1,12 +1,12 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://rgn.biz.id/"
+baseURL = "https://rgn.biz.id"
 # Title of your website (required).
 title = "RGN - Unlimited Connection"
 # Your theme name
 # theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "America/New_York"
+timeZone = "Asia/Jakarta"
 # post excerpt
 summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
 # disable language

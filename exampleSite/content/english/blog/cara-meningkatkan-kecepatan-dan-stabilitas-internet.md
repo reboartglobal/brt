@@ -1,6 +1,6 @@
 ---
 title: "Cara Meningkatkan Kecepatan dan Stabilitas Internet di Rumah"
-meta_title: "cara-meningkatkan-kecepatan-dan-stabilitas-internet"
+meta_title: "Cara meningkatkan kecepatan dan stabilitas internet"
 description: "Internet rumah sering putus atau terasa lambat? Artikel ini mengulas cara-cara meningkatkan kecepatan dan kestabilan koneksi, mulai dari posisi router, penggunaan kabel Ethernet, upgrade perangkat ke WiFi 6, hingga memanfaatkan sistem Mesh. Dilengkapi tips praktis untuk memastikan semua aktivitas online Anda berjalan lancar tanpa hambatan."
 date: 2025-03-04T05:00:00Z
 image: "/images/kecepatan-dan-stabilitas-internet.jpg"

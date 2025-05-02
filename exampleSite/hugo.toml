@@ -61,10 +61,8 @@ target = 'assets/notwatching/hugo_stats.json'
 [outputs]
 home = ["HTML", "RSS", "WebAppManifest", "SearchIndex", "ROBOTS"]
 
-[outputFormats]
-  [outputFormats.ROBOTS]
-    mediaType = "text/plain"
-    baseName = "robots"
+
+  
 
 ############################# Imaging ############################
 [imaging]
@@ -116,6 +114,10 @@ mediaType = "application/json"
 baseName = "searchindex"
 isPlainText = true
 notAlternative = true
+
+[outputFormats.ROBOTS]
+    mediaType = "text/plain"
+    baseName = "robots"
 
 
 ############################# Plugins ##############################

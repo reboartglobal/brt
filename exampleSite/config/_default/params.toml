@@ -63,7 +63,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Reboart", "Unlimited + no FUP","internet cepat & stabil", "internet patimuan", "Internet", "Wifi", "Wifi Stabil", "Rgn Wifi Cepat", "RGN", "Patimuan"]
-description = "Internet Unlimited Tanpa Quota dari RGN! Tanpa lemot, tanpa FUP, bebas streaming & download sepuasnya. Promo harga spesial, daftar hari ini!"
+description = "Udah berlangganan Internet Unlimited Tanpa Quota dari RGN! Tanpa lemot, tanpa FUP, bebas streaming & download sepuasnya. Promo harga spesial, daftar hari ini!"
 author = "reboart"
 twitter = "reboart"
 image = "images/rgn-internet-tanpa-fup-patimuan.jpg"

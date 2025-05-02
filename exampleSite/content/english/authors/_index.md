@@ -1,3 +1,3 @@
 ---
-title: "Authors"
+title: "Authors Blog RGN - Unlimited Connection"
 ---

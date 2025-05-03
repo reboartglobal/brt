@@ -29,7 +29,7 @@ Router adalah jantung koneksi WiFi Anda. Jika ditempatkan di tempat yang salah, 
 Router lama mungkin tidak mampu mendukung kecepatan internet terbaru atau banyak perangkat sekaligus.
 
 **Mengapa Upgrade Router Penting?**
-- Teknologi WiFi 6 mampu menangani lebih banyak perangkat tanpa penurunan performa.
+- Teknologi [WiFi 6](https://rgn.biz.id/tags/wifi6/) mampu menangani lebih banyak perangkat tanpa penurunan performa.
 - Router baru biasanya punya jangkauan lebih luas dan fitur keamanan lebih baik.
 
 **Saran:** Investasi di router baru bisa menghemat frustrasi Anda di masa depan!
@@ -80,7 +80,7 @@ Semakin banyak perangkat aktif, semakin berat beban jaringan.
 - Matikan WiFi di perangkat yang tidak digunakan.
 - Atur prioritas bandwidth untuk perangkat penting (fitur QoS - Quality of Service di router).
 
-## **Kesimpulan: Internet Rumah yang Lebih Cepat dan Stabil Itu Mungkin!**
+## **Internet Rumah yang Lebih Cepat dan Stabil Itu Mungkin!**
 Kunci dari internet yang cepat dan stabil di rumah bukan cuma soal paket besar, tetapi kombinasi banyak faktor:
 
 - Penempatan router,

@@ -22,7 +22,7 @@ Lalu, apa solusi cerdasnya? Mari kita bahas satu per satu!
 Router lama mungkin tidak dirancang untuk menangani banyak perangkat sekaligus.
 
 **Solusi:**
-- Ganti ke router yang mendukung **WiFi 6** atau minimal **WiFi 5 (802.11ac)**.
+- Ganti ke router yang mendukung [**WiFi 6**](https://rgn.biz.id/tags/wifi6/) atau minimal **WiFi 5 (802.11ac)**.
 - Pilih router dengan fitur **MU-MIMO** (Multi-User Multiple Input Multiple Output) yang memungkinkan banyak perangkat menerima data secara bersamaan.
 
 > **"Router lama untuk internet modern itu seperti mencoba mengatur lalu lintas kota besar dengan lampu lalu lintas zaman kuno — pasti kacau."**
@@ -42,7 +42,7 @@ Sering kali perangkat yang tidak digunakan tetap "mengunyah" bandwidth di latar 
 **Langkah Cepat:**
 - Matikan auto-update aplikasi di ponsel dan laptop.
 - Tutup aplikasi download besar saat tidak digunakan.
-- Nonaktifkan WiFi perangkat yang sedang tidak aktif.
+- Nonaktifkan [WiFi](https://rgn.biz.id/tags/wifi/) perangkat yang sedang tidak aktif.
 
 ## **4. Gunakan Jaringan Kabel untuk Perangkat Tetap**
 Perangkat yang tidak berpindah-pindah seperti PC, smart TV, atau konsol game lebih baik disambungkan dengan kabel Ethernet.
@@ -73,7 +73,7 @@ Kadang kita lupa berapa banyak perangkat yang tersambung ke jaringan kita.
 
 > **"Internet cepat itu bukan tentang siapa yang pertama terhubung, tapi tentang siapa yang benar-benar butuh terhubung."**
 
-## **Kesimpulan: Internet Rumah Bisa Tetap Kencang Meski Banyak Perangkat!**
+## **Internet Rumah Bisa Tetap Kencang Meski Banyak Perangkat!**
 Jangan biarkan internet lambat merusak produktivitas atau hiburan Anda. Dengan:
 - Perangkat jaringan yang lebih mumpuni,
 - Manajemen bandwidth yang bijak,

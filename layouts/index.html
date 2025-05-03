@@ -115,8 +115,8 @@
               </p>
             </div>
             <div class="col-12">
-              <div class="swiper testimonial-slider">
-                <div class="swiper-wrapper">
+              <div itemscope itemtype="https://schema.org/Product"class="swiper testimonial-slider">
+                <div itemprop="brand" itemtype="https://schema.org/Brand" class="swiper-wrapper">
                   {{ range .Params.testimonials }}
                     <div class="swiper-slide">
                       <div
@@ -133,15 +133,15 @@
                               fill="currentColor" />
                           </svg>
                         </div>
-                        <blockquote class="mt-8">
+                        <blockquote itemprop="description" class="mt-8">
                           {{ .content | markdownify }}
                         </blockquote>
-                        <div class="mt-11 flex items-center">
+                        <div itemprop="author" itemscope itemtype="https://schema.org/Person" class="mt-11 flex items-center">
                           <div class="text-text-dark dark:text-white">
                             {{ partial "image" (dict "Src" .avatar "Size" "50x50" "Class" "rounded-full" "Alt" .name) }}
                           </div>
                           <div class="ml-4">
-                            <h3 class="h5 font-primary font-semibold">
+                            <h3 itemprop="name" class="h5 font-primary font-semibold">
                               {{ .name }}
                             </h3>
                             <p class="text-text-dark dark:text-white">

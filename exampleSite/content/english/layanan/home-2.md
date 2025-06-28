@@ -1,7 +1,7 @@
 ---
 title: HOME 2 - Non FUP
 email: cs@reboart.net
-image: "/images/layanan/home-2-rgn.png"
+image: "/images/layanan/paket-home-2.png"
 description: Paket HOME 2 dari RGN dirancang untuk pengguna yang membutuhkan koneksi internet lebih cepat dan stabil dengan harga yang terjangkau.
 
 ---
@@ -10,7 +10,7 @@ Paket HOME 2 dari RGN dirancang untuk pengguna yang membutuhkan koneksi internet
 
 Detail Paket HOME 2:
 
-- ✅ Kecepatan internet hingga 12 Mbps* (sesuaikan dengan kebutuhan)
+- ✅ Kecepatan internet hingga 30 Mbps* (sesuaikan dengan kebutuhan)
 - ✅ Kuota unlimited (tanpa batas pemakaian)
 - ✅ Dukungan teknis 24/7
 - ✅ Gratis biaya sewa modem

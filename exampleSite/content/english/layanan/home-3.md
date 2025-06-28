@@ -1,7 +1,7 @@
 ---
 title: HOME 3 - Non FUP
 email: cs@reboart.net
-image: "/images/layanan/home-3-rgn.png"
+image: "/images/layanan/paket-home-3.png"
 description: Paket Home 3 dari RGN adalah pilihan terbaik bagi pengguna yang membutuhkan koneksi internet super cepat dan stabil untuk aktivitas online intensif.
 
 ---
@@ -10,7 +10,7 @@ Paket Home 3 dari RGN adalah pilihan terbaik bagi pengguna yang membutuhkan kone
 
 Detail Paket Home 3:
 
-- ✅ Kecepatan internet hingga 30 Mbps* (sesuaikan dengan kebutuhan)
+- ✅ Kecepatan internet hingga 50 Mbps* (sesuaikan dengan kebutuhan)
 - ✅ Kuota unlimited (tanpa batas pemakaian)
 - ✅ Dukungan teknis 24/7
 - ✅ Gratis biaya sewa modem

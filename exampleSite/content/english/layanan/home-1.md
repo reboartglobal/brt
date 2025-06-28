@@ -1,7 +1,7 @@
 ---
 title: HOME 1 - Non FUP
 email: cs@reboart.net
-image: "/images/layanan/home-1-rgn.png"
+image: "/images/layanan/paket-home-1.png"
 description: Paket HOME 1 dari RGN adalah pilihan terjangkau yang menawarkan koneksi internet cepat dan stabil untuk kebutuhan harian.
 
 ---
@@ -10,7 +10,7 @@ Paket HOME 1 dari RGN adalah pilihan terjangkau yang menawarkan koneksi internet
 
 Detail Paket HOME 1:
 
-- ✅ Kecepatan internet hingga 7 Mbps *(sesuaikan dengan kebutuhan)
+- ✅ Kecepatan internet hingga 10 Mbps *(sesuaikan dengan kebutuhan)
 - ✅ Kuota unlimited (tanpa batas pemakaian)
 - ✅ Dukungan teknis 24/7
 - ✅ Gratis biaya sewa modem

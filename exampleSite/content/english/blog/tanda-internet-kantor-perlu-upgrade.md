@@ -2,7 +2,7 @@
 title: "5 Tanda Internet di Kantor Anda Perlu Upgrade Kecepatan"
 meta_title: "5 Tanda Internet Kantor Perlu Upgrade Kecepatan"
 description: "Apakah internet kantor Anda terasa lambat? Kenali 5 tanda utama bahwa koneksi internet di tempat kerja Anda sudah perlu ditingkatkan. Artikel ini membantu Anda mengidentifikasi masalah jaringan sebelum berdampak lebih parah pada produktivitas tim."
-date: 2026-06-27T05:00:00Z
+date: 2026-06-25T05:00:00Z
 image: "/images/tanda-internet-kantor-perlu-upgrade.jpg"
 categories: ["Technology", "Business"]
 author: "reboart"

@@ -107,7 +107,7 @@ Banyak pemilik bisnis berlangganan paket internet rumahan atau paket murah yang 
 Internet lambat bukan hanya masalah teknis—itu adalah **masalah bisnis**. Setiap detik yang terbuang karena koneksi lemot adalah uang yang hilang, peluang yang terlewat, dan reputasi yang tergerus.
 
 **5 tanda di atas** adalah alarm peringatan. Jika Anda menyadari satu saja sudah terjadi di kantor Anda, jangan tunda lagi. Lakukan audit jaringan, konsultasikan dengan penyedia layanan, dan pertimbangkan upgrade ke paket yang sesuai dengan kebutuhan tim Anda.
-
+Anda bisa melihat pilihan layanan internet kami yang dirancang khusus untuk kebutuhan profesional melalui halaman [Paket Internet RGN](https://rgn.biz.id/layanan). Kami menyediakan berbagai pilihan mulai dari Paket Nongki hingga Paket Sultan yang bisa disesuaikan dengan kapasitas kebutuhan kantor Anda.
 Karena pada akhirnya, **internet yang cepat dan stabil adalah investasi, bukan biaya**.
 
 ---

@@ -3,7 +3,7 @@ title: "Pentingnya Stabilitas Jaringan untuk Work From Home: Mengapa Latensi Ren
 meta_title: "Pentingnya Stabilitas Jaringan untuk WFH: Latensi Rendah Itu Krusial"
 description: "Artikel ini menjelaskan secara sederhana namun mendalam mengapa latensi rendah dan stabilitas jaringan sangat penting bagi produktivitas kerja dari rumah (WFH). Dilengkapi dengan penjelasan teknis tentang latensi, packet loss, dan tips praktis untuk memastikan koneksi internet Anda tetap optimal."
 date: 2026-06-27T05:00:00Z
-image: "/images/stabilitas-jaringan-wfh-latensi-rendah.jpg"
+image: "/images/stabilitas-jaringan-wfh-latensi-rendah.png"
 categories: ["Technology", "Productivity"]
 author: "reboart"
 tags: ["wifi", "broadband", "fiber optik", "latensi", "work from home", "stabilitas jaringan"]

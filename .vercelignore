@@ -18,8 +18,3 @@ deploy-wasmer.sh
 wasmer-deploy.yml
 .wasmerignore
 bin/
-*.go
-api/
-go.mod
-go.sum
-*.md

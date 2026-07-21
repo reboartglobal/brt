@@ -28,3 +28,8 @@
 - [x] Go API siap di-compile di Vercel
 - [x] Build command sudah sesuai
 
+## ✅ Tahap 4 — Perbaikan Deploy Vercel (SELESAI)
+- [x] **`package.json`**: Ganti `hugo` → `./hugo` di `vercel-build` script agar binary Hugo yang didownload dipakai langsung
+- [x] **`.vercelignore`**: Hapus baris `*.go`, `api/`, `go.mod`, `go.sum`, `*.md` agar Go serverless functions ikut terdeploy
+- [x] **`vercel.json`**: Set `buildCommand` menjadi `"npm run vercel-build"` secara eksplisit
+

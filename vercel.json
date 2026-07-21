@@ -1,7 +1,7 @@
 {
   "name": "rgn-website",
   "version": 2,
-  "buildCommand": "hugo --gc --minify",
+  "buildCommand": "hugo --gc",
   "outputDirectory": "public",
   "installCommand": "",
   "framework": null,

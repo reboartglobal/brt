@@ -1,9 +1,9 @@
 {
   "name": "rgn-website",
   "version": 2,
-  "buildCommand": "npm run vercel-build",
+  "buildCommand": "hugo --gc --minify",
   "outputDirectory": "public",
-  "installCommand": "npm install",
+  "installCommand": "",
   "framework": null,
   "routes": [
     {

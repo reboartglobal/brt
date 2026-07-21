@@ -3,14 +3,18 @@
     "version": "1.0.0",
     "description": "RGN Website - Unlimited Connection",
     "scripts": {
-      "build": "bash build-wasmer.sh",
-      "deploy": "wasmer deploy",
+      "build": "hugo --gc --minify",
       "dev": "hugo server -D --watch --port=1313",
-      "wasm-build": "GOOS=wasip1 GOARCH=wasm CGO_ENABLED=0 go build -o target/wasm32-wasi/release/rgn-server.wasm main_wasm.go",
-      "wasm-run": "wasmer run target/wasm32-wasi/release/rgn-server.wasm --net --env PORT=8080",
-      "wasm-package": "tar -czf rgn-website.wasmer.tar.gz -C target ."
+      "vercel-build": "hugo --gc --minify",
+      "start": "hugo server -D --port=1313"
     },
-    "keywords": ["wasmer", "webassembly", "hugo", "go", "website"],
+    "dependencies": {
+      "@vercel/go": "^3.0.0"
+    },
+    "devDependencies": {
+      "hugo": "^0.125.0"
+    },
+    "keywords": ["hugo", "go", "vercel", "website"],
     "author": "RGN Team",
     "license": "MIT"
   }

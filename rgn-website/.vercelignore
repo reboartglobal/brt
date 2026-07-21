@@ -12,3 +12,9 @@ Dockerfile*
 .git/
 .hugo_build.lock
 resources/
+target/
+wasmer.toml
+build-wasmer.sh
+deploy-wasmer.sh
+wasmer-deploy.yml
+.wasmerignore

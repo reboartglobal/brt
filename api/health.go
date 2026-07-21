@@ -13,7 +13,7 @@ type HealthResponse struct {
 	Env     string `json:"environment"`
 }
 
-func HealthHandler(w http.ResponseWriter, r *http.Request) {
+func Handler(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
 	
 	response := HealthResponse{
@@ -25,4 +25,11 @@ func HealthHandler(w http.ResponseWriter, r *http.Request) {
 	
 	w.WriteHeader(http.StatusOK)
 	json.NewEncoder(w).Encode(response)
+}
+
+func getEnv(key, defaultValue string) string {
+	if value := r.Header.Get("x-vercel-env"); value != "" {
+		return value
+	}
+	return defaultValue
 }

@@ -15,7 +15,7 @@ type Package struct {
 	Description string   `json:"description"`
 }
 
-func PackagesHandler(w http.ResponseWriter, r *http.Request) {
+func Handler(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
 	
 	packages := []Package{

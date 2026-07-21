@@ -16,7 +16,7 @@ type InfoResponse struct {
 	Features  []string  `json:"features"`
 }
 
-func InfoHandler(w http.ResponseWriter, r *http.Request) {
+func Handler(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
 	
 	response := InfoResponse{

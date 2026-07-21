@@ -4,7 +4,6 @@ package api
 import (
 	"encoding/json"
 	"net/http"
-	"os"
 )
 
 // Config for Vercel serverless functions

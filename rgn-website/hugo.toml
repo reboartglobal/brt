@@ -1,0 +1,19 @@
+baseURL = "https://rgn.biz.id/"
+languageCode = "id-id"
+title = "RGN - Unlimited Connection"
+theme = "rgn-theme"
+publishDir = "public"
+
+[params]
+  description = "RGN - Layanan internet fiber optik dengan koneksi unlimited, cepat, dan stabil."
+  author = "RGN Team"
+  tagline = "Unlimited Connection, Unlimited Possibilities"
+
+[permalinks]
+  layanan = "/layanan/"
+  paket = "/paket/"
+  tentang = "/tentang/"
+  blog = "/blog/:slug/"
+
+[minify]
+  minifyOutput = true

@@ -1,0 +1,54 @@
+<header class="site-header">
+    <div class="container">
+        <nav class="navbar" aria-label="Navigasi utama">
+            <!-- Logo -->
+            <div class="logo">
+                <a href="{{ "/" | relURL }}">
+                    <i class="fas fa-wifi" aria-hidden="true"></i> 
+                    <span>RGN</span>
+                </a>
+            </div>
+            
+            <!-- Menu Navigasi -->
+            <div class="nav-links" role="navigation">
+                <a href="{{ "/" | relURL }}" {{ if .IsHome }}class="active"{{ end }}>
+                    <i class="fas fa-home" aria-hidden="true"></i> Beranda
+                </a>
+                <a href="{{ "/layanan" | relURL }}" {{ if eq .Type "layanan" }}class="active"{{ end }}>
+                    <i class="fas fa-server" aria-hidden="true"></i> Layanan
+                </a>
+                <a href="{{ "/paket" | relURL }}" {{ if eq .Type "paket" }}class="active"{{ end }}>
+                    <i class="fas fa-tag" aria-hidden="true"></i> Paket
+                </a>
+                <a href="{{ "/blog" | relURL }}" {{ if eq .Type "blog" }}class="active"{{ end }}>
+                    <i class="fas fa-blog" aria-hidden="true"></i> Blog
+                </a>
+                <a href="{{ "/tentang" | relURL }}" {{ if eq .Type "tentang" }}class="active"{{ end }}>
+                    <i class="fas fa-info-circle" aria-hidden="true"></i> Tentang
+                </a>
+            </div>
+            
+            <!-- Tombol Aksi -->
+            <div class="nav-actions">
+                <a href="#" class="btn-primary" aria-label="Daftar sekarang">
+                    <i class="fas fa-user-plus" aria-hidden="true"></i> Daftar
+                </a>
+                <button class="mobile-menu-btn" aria-label="Toggle menu" onclick="toggleMenu()">
+                    <i class="fas fa-bars" aria-hidden="true"></i>
+                </button>
+            </div>
+        </nav>
+        
+        <!-- Mobile Menu (Hidden by default) -->
+        <div class="mobile-menu" id="mobileMenu">
+            <a href="{{ "/" | relURL }}" {{ if .IsHome }}class="active"{{ end }}>Beranda</a>
+            <a href="{{ "/layanan" | relURL }}" {{ if eq .Type "layanan" }}class="active"{{ end }}>Layanan</a>
+            <a href="{{ "/paket" | relURL }}" {{ if eq .Type "paket" }}class="active"{{ end }}>Paket</a>
+            <a href="{{ "/blog" | relURL }}" {{ if eq .Type "blog" }}class="active"{{ end }}>Blog</a>
+            <a href="{{ "/tentang" | relURL }}" {{ if eq .Type "tentang" }}class="active"{{ end }}>Tentang</a>
+            <a href="#" class="btn-primary" style="margin-top:12px; text-align:center;">
+                <i class="fas fa-user-plus" aria-hidden="true"></i> Daftar
+            </a>
+        </div>
+    </div>
+</header>

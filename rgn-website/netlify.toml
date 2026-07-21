@@ -1,0 +1,16 @@
+[build]
+  command = "hugo --gc --minify"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.125.0"
+
+[[redirects]]
+  from = "/*"
+  to = "/"
+  status = 200
+
+[[redirects]]
+  from = "/blog/post"
+  to = "/blog/post/"
+  status = 301

@@ -1,0 +1,19 @@
+<header>
+    <nav class="navbar" aria-label="Navigasi utama">
+        <div class="logo">
+            <a href="{{ "/" | relURL }}">
+                <i class="fas fa-wifi" aria-hidden="true"></i> RGN
+            </a>
+        </div>
+        <div class="nav-links">
+            <a href="{{ "/" | relURL }}" {{ if .IsHome }}class="active"{{ end }}>Beranda</a>
+            <a href="{{ "/layanan" | relURL }}" {{ if eq .Type "layanan" }}class="active"{{ end }}>Layanan</a>
+            <a href="{{ "/paket" | relURL }}" {{ if eq .Type "paket" }}class="active"{{ end }}>Paket</a>
+            <a href="{{ "/blog" | relURL }}" {{ if eq .Type "blog" }}class="active"{{ end }}>Blog</a>
+            <a href="{{ "/tentang" | relURL }}" {{ if eq .Type "tentang" }}class="active"{{ end }}>Tentang</a>
+        </div>
+        <div class="nav-actions">
+            <a href="#" class="btn-primary"><i class="fas fa-user-plus" aria-hidden="true"></i> Daftar</a>
+        </div>
+    </nav>
+</header>

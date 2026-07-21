@@ -1,0 +1,14 @@
+.git/
+.gitignore
+README.md
+*.log
+node_modules/
+*.tar.gz
+*.wasmer.tar.gz
+Dockerfile*
+.dockerignore
+.env
+.env.local
+.git/
+.hugo_build.lock
+resources/

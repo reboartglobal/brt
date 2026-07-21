@@ -1,0 +1,37 @@
+# wasmer.toml - Konfigurasi untuk Wasmer deployment
+
+[package]
+name = "rgn-website"
+version = "1.0.0"
+description = "RGN Website - Unlimited Connection"
+license = "MIT"
+authors = ["RGN Team"]
+
+[app]
+name = "rgn-website"
+version = "1.0.0"
+
+[[app.module]]
+name = "rgn-server"
+source = "target/wasm32-wasi/release/rgn-server.wasm"
+abi = "wasi"
+
+[[app.module]]
+name = "static"
+source = "public"
+type = "static"
+
+[app.env]
+PORT = "8080"
+RUST_BACKTRACE = "1"
+
+[app.routes]
+"/*" = { static = { dir = "static" } }
+
+[app.hooks]
+pre_deploy = "bash scripts/pre-deploy.sh"
+post_deploy = "bash scripts/post-deploy.sh"
+
+[deployment]
+provider = "wasmer"
+region = "id-jkt"

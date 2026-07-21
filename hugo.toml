@@ -1,7 +1,7 @@
 baseURL = "https://rgn-website.vercel.app/"
 languageCode = "id-id"
 title = "RGN - Unlimited Connection"
-theme = "rgn-theme"
+# Theme tidak diperlukan — layout sudah ada di root /layouts
 publishDir = "public"
 
 [params]

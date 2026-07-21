@@ -17,6 +17,6 @@ Nikmati koneksi fiber optik tanpa batas, ideal untuk work from home, streaming, 
 - Jaringan Global
 
 ### Paket Populer
-- Start: Rp125.000/bulan
-- Pro: Rp150.000/bulan
-- Ultimate: Rp200.000/bulan
+- Start: Rp199.000/bulan
+- Pro: Rp349.000/bulan
+- Ultimate: Rp599.000/bulan

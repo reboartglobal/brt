@@ -20,7 +20,7 @@ type ContactResponse struct {
 	Data    ContactRequest `json:"data"`
 }
 
-func Handler(w http.ResponseWriter, r *http.Request) {
+func ContactHandler(w http.ResponseWriter, r *http.Request) {
 	// Only allow POST
 	if r.Method != http.MethodPost {
 		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)

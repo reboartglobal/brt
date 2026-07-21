@@ -20,38 +20,13 @@
       "dest": "/api/$1"
     },
     {
-      "src": "/health",
-      "dest": "/api/health"
-    },
-    {
-      "src": "/api/info",
-      "dest": "/api/info"
-    },
-    {
-      "src": "/api/packages",
-      "dest": "/api/packages"
-    },
-    {
-      "src": "/api/contact",
-      "dest": "/api/contact"
-    },
-    {
       "src": "/(.*)",
       "dest": "/public/$1"
     }
   ],
   "env": {
     "HUGO_VERSION": "0.125.0",
-    "GO_VERSION": "1.21",
-    "NODE_VERSION": "18"
-  },
-  "functions": {
-    "api/*.go": {
-      "runtime": "go1.21",
-      "memory": 128,
-      "maxDuration": 10,
-      "regions": ["sin1", "iad1"]
-    }
+    "GO_VERSION": "1.21"
   },
   "headers": [
     {
@@ -72,10 +47,6 @@
         {
           "key": "Referrer-Policy",
           "value": "strict-origin-when-cross-origin"
-        },
-        {
-          "key": "Permissions-Policy",
-          "value": "geolocation=(), microphone=(), camera=()"
         }
       ]
     },
@@ -105,28 +76,12 @@
           "value": "public, max-age=31536000, immutable"
         }
       ]
-    },
-    {
-      "source": "/fonts/(.*)",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=31536000, immutable"
-        }
-      ]
     }
   ],
   "rewrites": [
     {
       "source": "/blog/post",
       "destination": "/blog/post/"
-    }
-  ],
-  "redirects": [
-    {
-      "source": "/old-blog/(.*)",
-      "destination": "/blog/$1",
-      "statusCode": 301
     }
   ]
 }

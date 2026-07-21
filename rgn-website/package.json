@@ -8,12 +8,6 @@
       "vercel-build": "hugo --gc --minify",
       "start": "hugo server -D --port=1313"
     },
-    "dependencies": {
-      "@vercel/go": "^3.0.0"
-    },
-    "devDependencies": {
-      "hugo": "^0.125.0"
-    },
     "keywords": ["hugo", "go", "vercel", "website"],
     "author": "RGN Team",
     "license": "MIT"

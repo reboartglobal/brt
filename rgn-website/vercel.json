@@ -1,15 +1,15 @@
 {
   "name": "rgn-website",
   "version": 2,
+  "buildCommand": "hugo --gc --minify",
+  "outputDirectory": "public",
+  "installCommand": "echo 'No dependencies to install'",
   "routes": [
     {
       "src": "/(.*)",
       "dest": "/public/$1"
     }
   ],
-  "env": {
-    "HUGO_VERSION": "0.125.0"
-  },
   "headers": [
     {
       "source": "/(.*)",

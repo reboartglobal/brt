@@ -9,7 +9,6 @@ Dockerfile*
 .dockerignore
 .env
 .env.local
-.git/
 .hugo_build.lock
 resources/
 target/
@@ -18,3 +17,9 @@ build-wasmer.sh
 deploy-wasmer.sh
 wasmer-deploy.yml
 .wasmerignore
+bin/
+*.go
+api/
+go.mod
+go.sum
+*.md

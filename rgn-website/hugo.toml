@@ -1,4 +1,4 @@
-baseURL = "https://rgn.biz.id/"
+baseURL = "https://rgn-website.vercel.app/"
 languageCode = "id-id"
 title = "RGN - Unlimited Connection"
 theme = "rgn-theme"
@@ -17,3 +17,18 @@ publishDir = "public"
 
 [minify]
   minifyOutput = true
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  tdewolff = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "dracula"
+    guessSyntax = true

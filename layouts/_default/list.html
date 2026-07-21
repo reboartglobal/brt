@@ -1,20 +1,20 @@
 {{ define "main" }}
-  {{ partial "page-header" . }}
+<div class="page-header">
+    <h1>Blog RGN</h1>
+    <p>Artikel terbaru seputar internet, teknologi, dan tips dari RGN.</p>
+</div>
 
-
-  <section class="section">
-    <div class="container">
-      <ul class="text-center">
-        {{ range .RegularPages }}
-          <li class="m-3">
-            <a
-              href="{{ .Permalink }}"
-              class="text-text-dark dark:text-darkmode-text-dark block text-xl">
-              {{ .Title }}
-            </a>
-          </li>
-        {{ end }}
-      </ul>
-    </div>
-  </section>
+<div class="blog-grid">
+    {{ range .Pages }}
+    <article class="blog-card">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <div class="post-meta">
+            <span><i class="far fa-user" aria-hidden="true"></i> {{ .Params.author }}</span>
+            <span><i class="far fa-calendar-alt" aria-hidden="true"></i> {{ .Date.Format "2 Jan 2006" }}</span>
+        </div>
+        <p>{{ .Description }}</p>
+        <a href="{{ .Permalink }}" class="btn-outline">Baca Selengkapnya</a>
+    </article>
+    {{ end }}
+</div>
 {{ end }}
